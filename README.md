@@ -1,6 +1,6 @@
 <h1 align="center">Приветствую вас! 👋</h1>
 
-<img src="https://github.com/sudomango/sudomango/blob/main/Readme%20Screenshot%20Large.png">
+<img src="https://github.com/sudomango/sudomango/blob/main/Readme%20Screenshot%20Launch.png">
 
 <h3>Обо мне:</h3>
 
