@@ -1,8 +1,20 @@
 <h1 align="center">Приветствую вас! 👋</h1>
 
-<img src="https://github.com/sudomango/sudomango/blob/main/Readme%20Screenshot%20Launch.png">
+<img src="https://github.com/sudomango/sudomango/blob/main/Books%20Screenshot.png">
 
-*// Кусочек исходного кода из функции МассивПеревернуть, просто в качестве шапки профиля.*
+<h3>Некоторые примеры исходного кода:</h3>
+
+📝 Пример исходного кода на 1С = [Программный модуль документа ЗаказКлиента](https://github.com/sudomango/sudomango/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0.bsl)
+
+📝 Пример исходного кода на OneScript = [Вычисление цифрового корня числа](https://github.com/sudomango/1C-Codewars-Challenge/blob/main/digital_root.os)
+
+📝 Пример исходного кода на OneScript = [Генератор массива случайных целых чисел](https://github.com/sudomango/1C-Extended-Arrays/blob/main/oscript_functions/array_random_numbers.os)
+
+📝 Пример исходного кода на SQL = [Решение задачи сложностью 2 в тренажёре SQL-Ex](https://github.com/sudomango/MariaDB-SQL-Exercises/blob/main/sql_ex_online/Task%20Solution%20%2341%20(SELECT).sql)
+
+📝 Пример исходного кода на Python = [Конвертация чисел между разными системами счисления](https://github.com/sudomango/Python-Algo-Tasks/blob/main/Block_02/20%20-%20dec_to_hex%2C%20hex_to_dec.py)
+
+📝 Пример исходного кода на Python в парадигме ООП = [Реализация класса Склад для виртуального Супермаркета](https://github.com/sudomango/Python-OOP-Market/blob/main/market_storage.py)
 
 <h3>Обо мне:</h3>
 
